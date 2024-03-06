@@ -1,4 +1,4 @@
 (executable
  (public_name sexp_printer)
  (name sexp_printer)
- (libraries sexp_fmt base sexp_pretty sexplib stdio))
+ (libraries base sexp_pretty sexplib stdio))
